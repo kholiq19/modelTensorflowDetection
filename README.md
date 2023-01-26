@@ -1,4 +1,4 @@
-#Deteksi Uang Mengguanakan Tensorflow detection
+# Deteksi Uang Mengguanakan Tensorflow detection
 
 Merujuk dari paper 1527-3516-1-SM.pdf yang berjudul "APLIKASI PENDETEKSI TANDA AIR PADA UANG KERTAS DENGAN METODE SEGMENTASI REGION BASED ACTIVE CONTOUR MENGGUNAKAN MATLAB". dari paper tersebut kami mengembangkan deteksi keaslian uang menggunakan metode tensorflow. project ini bisa dikembangkan menjadi sebuah aplikasi berbasis android agar mendeteksi lebih efesien.
 
