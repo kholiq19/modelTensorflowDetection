@@ -1,0 +1,9 @@
+item{
+  name: 'uang asli'
+  id: 1
+}
+
+item{
+  name: 'uang palsu'
+  id: 2
+}
